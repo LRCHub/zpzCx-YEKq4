@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "晴天前夜",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-02T07:24:04.410331Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "晴天前夜",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_晴天前夜_ウォルピスカーター.txt"
+    }
+  ]
+}
